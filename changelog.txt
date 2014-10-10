@@ -1,8 +1,11 @@
 Name: CHANGELOG | Simply Works Core Theme 
-Version: 1.5.8
+Version: 1.5.9
 URI: http://simplyworksweb.com
 Author: Jason Huber
 Description: Bux Fixes, Additions, and correction listed here.
+
+# 2014.10.09 - version 1.5.9
+      - Added to Github Account
 
 # 2012.04.11 - version 1.5.8
       - Required change - `get_template_directory()`/`get_stylesheet_directory()` instead of `TEMPLATEPATH`/`STYLESHEETPATH`
